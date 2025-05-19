@@ -1,0 +1,10 @@
+numpy>=1.19.2
+torch>=1.7.0
+gym>=0.17.3
+pybullet>=3.2.5
+matplotlib>=3.3.2
+pandas>=1.1.3
+jupyter>=1.0.0
+casadi>=3.5.5
+scipy>=1.5.2
+tqdm>=4.50.2 
